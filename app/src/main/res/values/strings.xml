@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">verify</string>
+    <string name ="email">email</string>
+    <string name ="lineA">Verify your email to finish setup</string>
+    <string name="lineB">We sent an email to:</string>
+    <string name="lineC">socopa@gmail.com</string>
+    <string name="lineD">If you didn\'t receive an email, please email support at support@betterment.com</string>
+    <string name="lineE">Great, got it</string>
+</resources>
